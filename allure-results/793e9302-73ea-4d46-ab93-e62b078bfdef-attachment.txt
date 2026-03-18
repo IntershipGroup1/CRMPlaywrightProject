@@ -1,0 +1,4 @@
+2026-03-18T01:48:59.500Z [INFO] Starting login before each test
+2026-03-18T01:49:11.304Z [INFO] Starting Create Campaign test
+First row name: NinjaCRMOne Campaign
+2026-03-18T01:49:12.518Z [INFO] Create Campaign test completed successfully

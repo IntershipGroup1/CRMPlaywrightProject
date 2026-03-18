@@ -10,12 +10,6 @@ export class LoginAPI extends BaseAPI{
     this.request = request;
   }
 
-  
-  /*async loginValid(): Promise<string> {
-  const response = await this.get(
-    testDataAPI.APIurlLogin,
-    this.getBasicAuthHeader(testDataAPI.username, testDataAPI.password)
-  );*/
 
   async loginValid(): Promise<string> {
   const response = await this.get(

@@ -7,14 +7,14 @@ export const testDataAPI = {
     //jwtToken:"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJybWd5YW50cmEiLCJleHAiOjE3NzM4MDU0MDEsImlhdCI6MTc3Mzc2OTQwMX0.PGJR5BFQpEmvi55t8SbkV9j5UggkdVKHb0fR8U7GlYs",
     APICampaignsurl:"http://49.249.28.218:8098/campaign",
     campaignData:{
-            "campaignName": "APIWinterTestTwoEight Campaign",
+            "campaignName": "APIWinterTestFourone Campaign",
             "targetSize": 10000,
             "startDate": "2024-07-01",
             "endDate": "2024-07-31"
     },
    // updateCampaignId:"CAM10331",
     updateCampaignData:{
-            "campaignName": "TestSeventestFive API Campaign",
+            "campaignName": "TestSevenonetwo API Campaign",
             "targetSize": 15000,
             "startDate": "2025-07-01",
             "endDate": "2025-07-31"

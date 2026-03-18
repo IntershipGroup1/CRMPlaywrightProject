@@ -1,0 +1,222 @@
+Status: 200
+Response Body: {
+  content: [
+    {
+      campaignId: 'CAM10366',
+      campaignName: 'Camp_1773798231402',
+      campaignStatus: 'Active',
+      targetSize: 10,
+      expectedCloseDate: '2026-03-31',
+      targetAudience: 'abc',
+      description: 'Test Description',
+      createdAt: '2026-03-18T07:13:51'
+    },
+    {
+      campaignId: 'CAM10365',
+      campaignName: 'Camp_1773798189121',
+      campaignStatus: 'Active',
+      targetSize: 10,
+      expectedCloseDate: '2026-03-31',
+      targetAudience: 'abc',
+      description: 'Test Description',
+      createdAt: '2026-03-18T07:13:09'
+    },
+    {
+      campaignId: 'CAM10364',
+      campaignName: 'Camp_00005',
+      campaignStatus: 'Active',
+      targetSize: 10,
+      expectedCloseDate: '2026-03-31',
+      targetAudience: 'abc',
+      description: 'Test Description',
+      createdAt: '2026-03-18T07:07:48'
+    },
+    {
+      campaignId: 'CAM10362',
+      campaignName: 'Shacceks',
+      campaignStatus: '',
+      targetSize: 204,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-18T06:36:56'
+    },
+    {
+      campaignId: 'CAM10351',
+      campaignName: 'APIWinterTestTwoSeven Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-18T03:27:34'
+    },
+    {
+      campaignId: 'CAM10345',
+      campaignName: 'APIWinterTestTwosix Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-18T03:27:00'
+    },
+    {
+      campaignId: 'CAM10339',
+      campaignName: 'TestSeventestFour API Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-18T03:25:23'
+    },
+    {
+      campaignId: 'CAM10334',
+      campaignName: 'APIWinterTestTwoTwo Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-18T03:17:11'
+    },
+    {
+      campaignId: 'CAM10333',
+      campaignName: 'APIWinterTestTwoone Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-18T03:09:38'
+    },
+    {
+      campaignId: 'CAM10332',
+      campaignName: 'APIWinterTestTwo Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-18T03:02:16'
+    },
+    {
+      campaignId: 'CAM10331',
+      campaignName: 'TestSeventestOne API Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-18T02:36:27'
+    },
+    {
+      campaignId: 'CAM10330',
+      campaignName: 'APIWinterTest Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-18T00:15:45'
+    },
+    {
+      campaignId: 'CAM10329',
+      campaignName: 'APIWinterNine Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-18T00:14:45'
+    },
+    {
+      campaignId: 'CAM10328',
+      campaignName: 'Shawyju',
+      campaignStatus: '',
+      targetSize: 550,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-17T23:26:14'
+    },
+    {
+      campaignId: 'CAM10326',
+      campaignName: 'Shawwmze',
+      campaignStatus: '',
+      targetSize: 572,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-17T23:24:45'
+    },
+    {
+      campaignId: 'CAM10323',
+      campaignName: 'API Campaignmmuwpiy8',
+      campaignStatus: 'to do',
+      targetSize: 299,
+      expectedCloseDate: '2026-12-03',
+      targetAudience: 'sales team',
+      description: 'This is a Playwright Campaign',
+      createdAt: '2026-03-17T23:19:04'
+    },
+    {
+      campaignId: 'CAM10322',
+      campaignName: 'APIWinterEight Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-17T23:14:04'
+    },
+    {
+      campaignId: 'CAM10319',
+      campaignName: 'API Campaignmmuwh9ik',
+      campaignStatus: 'to do',
+      targetSize: 299,
+      expectedCloseDate: '2026-12-03',
+      targetAudience: 'sales team',
+      description: 'This is a Playwright Campaign',
+      createdAt: '2026-03-17T23:12:38'
+    },
+    {
+      campaignId: 'CAM10317',
+      campaignName: 'TestSeven API Campaign',
+      campaignStatus: null,
+      targetSize: 1000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-17T22:57:38'
+    },
+    {
+      campaignId: 'CAM10316',
+      campaignName: 'Shavuwx',
+      campaignStatus: '',
+      targetSize: 314,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-17T22:55:25'
+    }
+  ],
+  pageable: {
+    sort: { unsorted: true, sorted: false, empty: true },
+    offset: 0,
+    pageNumber: 0,
+    pageSize: 20,
+    unpaged: false,
+    paged: true
+  },
+  last: false,
+  totalElements: 594,
+  totalPages: 30,
+  size: 20,
+  number: 0,
+  sort: { unsorted: true, sorted: false, empty: true },
+  first: true,
+  numberOfElements: 20,
+  empty: false
+}

@@ -1,0 +1,3 @@
+2026-03-18T01:48:59.774Z [INFO] Starting login before each test
+2026-03-18T01:49:11.305Z [INFO] Starting select search type from dropdown test
+2026-03-18T01:49:11.769Z [INFO] Select search type from dropdown test completed successfully
