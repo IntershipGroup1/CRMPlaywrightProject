@@ -1,6 +1,7 @@
 import { APIRequestContext } from '@playwright/test';
 import { BaseAPI } from '../../base/api/baseAPI';
 import { testDataAPI } from '../../Data/testDataAPI';
+import 'dotenv/config';
 
 export class LoginAPI extends BaseAPI{
   protected request: APIRequestContext;
@@ -12,9 +13,11 @@ export class LoginAPI extends BaseAPI{
 
 
   async loginValid(): Promise<string> {
+    const username = process.env.USERNAME!;
+const password = process.env.PASSWORD!;
   const response = await this.get(
     testDataAPI.APIurlLogin,
-    this.getBasicAuthHeader(testDataAPI.username, testDataAPI.password)
+    this.getBasicAuthHeader(username, password)
   );
 
   const body = await response.json();
