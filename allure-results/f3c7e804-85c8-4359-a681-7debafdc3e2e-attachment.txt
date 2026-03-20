@@ -1,0 +1,1 @@
+jwtToken: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJybWd5YW50cmEiLCJleHAiOjE3NzQwNTkyOTAsImlhdCI6MTc3NDAyMzI5MH0.jyrZtHG-ed7mBJ-4d0ozIoLTl971aFhilJukA8O_FlU

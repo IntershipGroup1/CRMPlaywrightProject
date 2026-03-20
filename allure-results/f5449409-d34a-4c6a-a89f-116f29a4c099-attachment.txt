@@ -1,0 +1,3 @@
+2026-03-20T16:18:40.811Z [INFO] Starting login before each test
+2026-03-20T16:18:45.429Z [INFO] Starting navigation to Campaigns page test
+2026-03-20T16:18:46.308Z [INFO] Navigation to Campaigns page test completed successfully

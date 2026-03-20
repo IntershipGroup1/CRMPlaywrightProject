@@ -1,0 +1,4 @@
+2026-03-20T16:18:40.850Z [INFO] Starting login before each test
+2026-03-20T16:18:45.098Z [INFO] Starting Create Campaign test
+First row name: QWERTYTWOONE Campaig
+2026-03-20T16:18:46.694Z [INFO] Create Campaign test completed successfully

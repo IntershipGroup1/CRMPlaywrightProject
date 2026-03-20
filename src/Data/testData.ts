@@ -11,7 +11,7 @@ export const testData = {
     verifyCampaignUrl:"http://49.249.28.218:8098/campaigns",
     createCampaignUrl:"http://49.249.28.218:8098/create-campaign",
     campaignPageLabel:"Campaigns",
-    campaignName:"QWERTY Campaigns",
+    campaignName:"QWERTYTWOONE Campaigns",
     campaignTargetSize:"20000",
     campaignSearchValue:"campaignId",
     campaignSearchexpectedValue:"campaignId",

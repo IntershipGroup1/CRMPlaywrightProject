@@ -1,13 +1,15 @@
-import { APIRequestContext, APIResponse } from '@playwright/test';
-
+import { APIRequestContext, APIResponse } from '@playwright/test';    //APIRequestContext->Playwright’s object to make API calls (GET, POST, etc.)
+                                                                      //APIResponse->The response you get back from an API calls
 export class BaseAPI {
-  protected request: APIRequestContext;
+  protected request: APIRequestContext;   //protected request->stores Playwright request object
 
   constructor(request: APIRequestContext) {
     this.request = request;
   }
 
-  async get(url: string, headers?: Record<string, string>): Promise<APIResponse> {
+  async get(
+    url: string, 
+    headers?: Record<string, string>): Promise<APIResponse> {
     return await this.request.get(url, { headers });
   }
 
@@ -33,7 +35,9 @@ export class BaseAPI {
     });
   }
 
-  async delete(url: string, headers?: Record<string, string>): Promise<APIResponse> {
+  async delete(
+    url: string, 
+    headers?: Record<string, string>): Promise<APIResponse> {
     return await this.request.delete(url, { headers });
   }
 

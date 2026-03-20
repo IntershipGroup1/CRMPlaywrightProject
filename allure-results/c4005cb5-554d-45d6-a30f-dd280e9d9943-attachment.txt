@@ -1,0 +1,1004 @@
+Status: 200
+Response Body: [
+  {
+    campaignId: 'CAM09242',
+    campaignName: 'Campaign',
+    campaignStatus: '',
+    targetSize: 0,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T10:58:16'
+  },
+  {
+    campaignId: 'CAM09243',
+    campaignName: 'ShwetaRVarpe',
+    campaignStatus: '',
+    targetSize: 200,
+    expectedCloseDate: '2026-04-11',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T10:59:27'
+  },
+  {
+    campaignId: 'CAM09248',
+    campaignName: 'hbhbkhjb',
+    campaignStatus: '',
+    targetSize: 0,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T11:09:40'
+  },
+  {
+    campaignId: 'CAM09251',
+    campaignName: 'Smitha',
+    campaignStatus: 'Active',
+    targetSize: 56,
+    expectedCloseDate: '',
+    targetAudience: 'Adults',
+    description: 'Stratergies',
+    createdAt: '2026-03-12T11:12:58'
+  },
+  {
+    campaignId: 'CAM09254',
+    campaignName: 'Raj',
+    campaignStatus: 'Active',
+    targetSize: 65,
+    expectedCloseDate: '',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T11:17:33'
+  },
+  {
+    campaignId: 'CAM09255',
+    campaignName: 'OmMPVL',
+    campaignStatus: 'Active',
+    targetSize: 4,
+    expectedCloseDate: '2026-03-13',
+    targetAudience: 'goQ',
+    description: '*ZSmbAw.%-',
+    createdAt: '2026-03-12T11:17:36'
+  },
+  {
+    campaignId: 'CAM09258',
+    campaignName: 'Campaign_22285',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T11:30:18'
+  },
+  {
+    campaignId: 'CAM09265',
+    campaignName: 'Campaign_46116',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T11:54:59'
+  },
+  {
+    campaignId: 'CAM09266',
+    campaignName: 'Campaign_52827',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T11:57:37'
+  },
+  {
+    campaignId: 'CAM09267',
+    campaignName: 'shaiaupdate',
+    campaignStatus: '',
+    targetSize: 200,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T11:58:43'
+  },
+  {
+    campaignId: 'CAM09269',
+    campaignName: 'Sioium',
+    campaignStatus: 'Success',
+    targetSize: 8,
+    expectedCloseDate: '2026-03-12',
+    targetAudience: 'abc',
+    description: 'Playwright',
+    createdAt: '2026-03-12T12:03:12'
+  },
+  {
+    campaignId: 'CAM09274',
+    campaignName: 'TestCampOne',
+    campaignStatus: '',
+    targetSize: 3,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T12:17:04'
+  },
+  {
+    campaignId: 'CAM09275',
+    campaignName: 'Campaign_77540',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T12:31:32'
+  },
+  {
+    campaignId: 'CAM09284',
+    campaignName: 'saf',
+    campaignStatus: '',
+    targetSize: 3,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T12:42:56'
+  },
+  {
+    campaignId: 'CAM09285',
+    campaignName: '',
+    campaignStatus: '',
+    targetSize: 0,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T12:44:10'
+  },
+  {
+    campaignId: 'CAM09286',
+    campaignName: 'API Campaignmmn4trjb',
+    campaignStatus: 'to do',
+    targetSize: 299,
+    expectedCloseDate: '2026-12-03',
+    targetAudience: 'sales team',
+    description: 'This is a Playwright Campaign',
+    createdAt: '2026-03-12T12:44:10'
+  },
+  {
+    campaignId: 'CAM09287',
+    campaignName: 'campqwe',
+    campaignStatus: '',
+    targetSize: 200,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T12:45:19'
+  },
+  {
+    campaignId: 'CAM09289',
+    campaignName: 'campqweqwe',
+    campaignStatus: '',
+    targetSize: 100,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T12:46:40'
+  },
+  {
+    campaignId: 'CAM09292',
+    campaignName: 'API Campaignmmn4xtic',
+    campaignStatus: 'to do',
+    targetSize: 299,
+    expectedCloseDate: '2026-12-03',
+    targetAudience: 'sales team',
+    description: 'This is a Playwright Campaign',
+    createdAt: '2026-03-12T12:47:19'
+  },
+  {
+    campaignId: 'CAM09295',
+    campaignName: 'API Campaignmmn4zzpp',
+    campaignStatus: 'to do',
+    targetSize: 299,
+    expectedCloseDate: '2026-12-03',
+    targetAudience: 'sales team',
+    description: 'This is a Playwright Campaign',
+    createdAt: '2026-03-12T12:49:01'
+  },
+  {
+    campaignId: 'CAM09297',
+    campaignName: 'API Campaignmmn51fgo',
+    campaignStatus: 'to do',
+    targetSize: 299,
+    expectedCloseDate: '2026-12-03',
+    targetAudience: 'sales team',
+    description: 'This is a Playwright Campaign',
+    createdAt: '2026-03-12T12:50:08'
+  },
+  {
+    campaignId: 'CAM09300',
+    campaignName: 'sas',
+    campaignStatus: '',
+    targetSize: 0,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T12:52:16'
+  },
+  {
+    campaignId: 'CAM09301',
+    campaignName: 'Campddfacecdabe',
+    campaignStatus: '',
+    targetSize: 9000,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T12:52:29'
+  },
+  {
+    campaignId: 'CAM09302',
+    campaignName: 'Test',
+    campaignStatus: '',
+    targetSize: 200,
+    expectedCloseDate: '2026-04-11',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T12:52:43'
+  },
+  {
+    campaignId: 'CAM09303',
+    campaignName: 'Campdecadbdfcbaceada',
+    campaignStatus: '',
+    targetSize: 9000,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T12:53:27'
+  },
+  {
+    campaignId: 'CAM09306',
+    campaignName: 'Campbcdccfcebead',
+    campaignStatus: '',
+    targetSize: 9000,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T12:54:43'
+  },
+  {
+    campaignId: 'CAM09312',
+    campaignName: 'Campcbcceaffecbba',
+    campaignStatus: '',
+    targetSize: 9000,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T12:58:35'
+  },
+  {
+    campaignId: 'CAM09313',
+    campaignName: 'Campdbecdbfebaceaea',
+    campaignStatus: '',
+    targetSize: 9000,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T12:59:06'
+  },
+  {
+    campaignId: 'CAM09315',
+    campaignName: 'Campaign_86498',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T13:00:49'
+  },
+  {
+    campaignId: 'CAM09316',
+    campaignName: 'ABCD',
+    campaignStatus: '',
+    targetSize: 100,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:00:51'
+  },
+  {
+    campaignId: 'CAM09318',
+    campaignName: 'Laptopbefcedeabddd',
+    campaignStatus: '',
+    targetSize: 20,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:01:03'
+  },
+  {
+    campaignId: 'CAM09319',
+    campaignName: 'Laptopecacacdab',
+    campaignStatus: 'Active',
+    targetSize: 20,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:01:07'
+  },
+  {
+    campaignId: 'CAM09320',
+    campaignName: 'Campafcaacfedfdfdefa',
+    campaignStatus: '',
+    targetSize: 9000,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:03:23'
+  },
+  {
+    campaignId: 'CAM09328',
+    campaignName: 'Atv',
+    campaignStatus: '',
+    targetSize: 10,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:09:41'
+  },
+  {
+    campaignId: 'CAM09330',
+    campaignName: 'Campcdbccccd',
+    campaignStatus: '',
+    targetSize: 9000,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:12:58'
+  },
+  {
+    campaignId: 'CAM09331',
+    campaignName: 'helloword',
+    campaignStatus: '',
+    targetSize: 22,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:13:23'
+  },
+  {
+    campaignId: 'CAM09333',
+    campaignName: 'Campefdbaedda',
+    campaignStatus: '',
+    targetSize: 9000,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:14:02'
+  },
+  {
+    campaignId: 'CAM09334',
+    campaignName: 'Orange',
+    campaignStatus: '',
+    targetSize: 100,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:14:22'
+  },
+  {
+    campaignId: 'CAM09335',
+    campaignName: 'dsss',
+    campaignStatus: '',
+    targetSize: 22,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:14:29'
+  },
+  {
+    campaignId: 'CAM09336',
+    campaignName: 'mango',
+    campaignStatus: '',
+    targetSize: 100,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:16:17'
+  },
+  {
+    campaignId: 'CAM09337',
+    campaignName: 'Lichi',
+    campaignStatus: '',
+    targetSize: 105,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:17:02'
+  },
+  {
+    campaignId: 'CAM09338',
+    campaignName: 'Ronaldo',
+    campaignStatus: '',
+    targetSize: 700,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:17:49'
+  },
+  {
+    campaignId: 'CAM09341',
+    campaignName: 'Ronaldoooooooooooooo',
+    campaignStatus: '',
+    targetSize: 700,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:19:33'
+  },
+  {
+    campaignId: 'CAM09343',
+    campaignName: 'AVENGERS',
+    campaignStatus: '',
+    targetSize: 4,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:20:27'
+  },
+  {
+    campaignId: 'CAM09346',
+    campaignName: 'coconut',
+    campaignStatus: '',
+    targetSize: 5,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:21:23'
+  },
+  {
+    campaignId: 'CAM09347',
+    campaignName: 'Thala',
+    campaignStatus: '',
+    targetSize: 700,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:21:38'
+  },
+  {
+    campaignId: 'CAM09351',
+    campaignName: 'abc',
+    campaignStatus: '',
+    targetSize: 12,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:24:13'
+  },
+  {
+    campaignId: 'CAM09352',
+    campaignName: 'AVggg',
+    campaignStatus: '',
+    targetSize: 49,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:24:26'
+  },
+  {
+    campaignId: 'CAM09353',
+    campaignName: 'sdfg',
+    campaignStatus: 'hhd',
+    targetSize: 9,
+    expectedCloseDate: '2026-03-21',
+    targetAudience: 'etry',
+    description: 'hdhdhjd',
+    createdAt: '2026-03-12T13:25:06'
+  },
+  {
+    campaignId: 'CAM09354',
+    campaignName: 'Thalaaaakk',
+    campaignStatus: '',
+    targetSize: 7,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:25:16'
+  },
+  {
+    campaignId: 'CAM09355',
+    campaignName: 'PEAR',
+    campaignStatus: '',
+    targetSize: 390,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:25:22'
+  },
+  {
+    campaignId: 'CAM09357',
+    campaignName: 'buff',
+    campaignStatus: '',
+    targetSize: 106,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:26:10'
+  },
+  {
+    campaignId: 'CAM09358',
+    campaignName: 'lciosc',
+    campaignStatus: '',
+    targetSize: 66,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:27:10'
+  },
+  {
+    campaignId: 'CAM09359',
+    campaignName: 'zlatan',
+    campaignStatus: '',
+    targetSize: 99,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:27:27'
+  },
+  {
+    campaignId: 'CAM09360',
+    campaignName: 'pineapple',
+    campaignStatus: '',
+    targetSize: 100,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:27:45'
+  },
+  {
+    campaignId: 'CAM09361',
+    campaignName: 'oogg',
+    campaignStatus: '',
+    targetSize: 87,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:28:38'
+  },
+  {
+    campaignId: 'CAM09363',
+    campaignName: 'ready',
+    campaignStatus: '',
+    targetSize: 101,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:29:56'
+  },
+  {
+    campaignId: 'CAM09364',
+    campaignName: 'lololol',
+    campaignStatus: '',
+    targetSize: 200,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:30:10'
+  },
+  {
+    campaignId: 'CAM09366',
+    campaignName: 'home',
+    campaignStatus: '',
+    targetSize: 100,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:32:35'
+  },
+  {
+    campaignId: 'CAM09368',
+    campaignName: 'dragon fruit',
+    campaignStatus: 'Active',
+    targetSize: 9,
+    expectedCloseDate: '2026-03-15',
+    targetAudience: 'For all',
+    description: 'Mango season is coming',
+    createdAt: '2026-03-12T13:34:14'
+  },
+  {
+    campaignId: 'CAM09372',
+    campaignName: 'apples',
+    campaignStatus: '',
+    targetSize: 100,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:36:59'
+  },
+  {
+    campaignId: 'CAM09384',
+    campaignName: 'read',
+    campaignStatus: '',
+    targetSize: 101,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:43:38'
+  },
+  {
+    campaignId: 'CAM09387',
+    campaignName: 'zlatan Ibrahimovic',
+    campaignStatus: '',
+    targetSize: 999,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:44:34'
+  },
+  {
+    campaignId: 'CAM09392',
+    campaignName: 'readxi',
+    campaignStatus: '',
+    targetSize: 101,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T13:48:47'
+  },
+  {
+    campaignId: 'CAM09402',
+    campaignName: 'Campaign_45626',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T14:27:34'
+  },
+  {
+    campaignId: 'CAM09407',
+    campaignName: 'Campaign_60634',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T14:40:20'
+  },
+  {
+    campaignId: 'CAM09408',
+    campaignName: 'Blackberry',
+    campaignStatus: 'open',
+    targetSize: 5,
+    expectedCloseDate: '2026-04-20',
+    targetAudience: 'none',
+    description: 'nothing muchhh',
+    createdAt: '2026-03-12T14:41:56'
+  },
+  {
+    campaignId: 'CAM09409',
+    campaignName: 'Jeppair LGBTQ',
+    campaignStatus: 'Active',
+    targetSize: 0,
+    expectedCloseDate: '',
+    targetAudience: 'panimalarities',
+    description: '',
+    createdAt: '2026-03-12T14:42:14'
+  },
+  {
+    campaignId: 'CAM09410',
+    campaignName: 'Campaign_09315',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T14:43:48'
+  },
+  {
+    campaignId: 'CAM09412',
+    campaignName: 'Campaign_94170',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T14:53:54'
+  },
+  {
+    campaignId: 'CAM09413',
+    campaignName: 'CampAnnotation',
+    campaignStatus: '',
+    targetSize: 100,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T15:09:40'
+  },
+  {
+    campaignId: 'CAM09414',
+    campaignName: 'Campdacfeaabceabfa',
+    campaignStatus: '',
+    targetSize: 9000,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T15:10:02'
+  },
+  {
+    campaignId: 'CAM09416',
+    campaignName: 'Campceccbfeedcdfee',
+    campaignStatus: '',
+    targetSize: 9000,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T15:12:53'
+  },
+  {
+    campaignId: 'CAM09418',
+    campaignName: 'Campbfaacffbbacb',
+    campaignStatus: '',
+    targetSize: 9000,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T15:33:36'
+  },
+  {
+    campaignId: 'CAM09419',
+    campaignName: 'Campbfcabbcfabac',
+    campaignStatus: '',
+    targetSize: 9000,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T15:34:00'
+  },
+  {
+    campaignId: 'CAM09420',
+    campaignName: 'Campfbaabcba',
+    campaignStatus: '',
+    targetSize: 9000,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T15:34:50'
+  },
+  {
+    campaignId: 'CAM09421',
+    campaignName: 'Campaign_24082',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T16:22:44'
+  },
+  {
+    campaignId: 'CAM09422',
+    campaignName: 'Campaign_30414',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T16:23:51'
+  },
+  {
+    campaignId: 'CAM09423',
+    campaignName: 'TodaySample',
+    campaignStatus: '',
+    targetSize: 0,
+    expectedCloseDate: '2026-03-27',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T16:52:10'
+  },
+  {
+    campaignId: 'CAM09424',
+    campaignName: 'shweta',
+    campaignStatus: '',
+    targetSize: 6,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T16:55:22'
+  },
+  {
+    campaignId: 'CAM09427',
+    campaignName: 'Qsgg',
+    campaignStatus: '',
+    targetSize: 2,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T17:23:38'
+  },
+  {
+    campaignId: 'CAM09428',
+    campaignName: 'sdfghiuioo',
+    campaignStatus: '',
+    targetSize: 20,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T17:26:34'
+  },
+  {
+    campaignId: 'CAM09429',
+    campaignName: 'qwewe',
+    campaignStatus: '',
+    targetSize: 90,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T17:35:54'
+  },
+  {
+    campaignId: 'CAM09430',
+    campaignName: 'ertyu',
+    campaignStatus: '',
+    targetSize: 70,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T17:40:45'
+  },
+  {
+    campaignId: 'CAM09431',
+    campaignName: 'Dear',
+    campaignStatus: '',
+    targetSize: 20,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T17:46:13'
+  },
+  {
+    campaignId: 'CAM09432',
+    campaignName: 'Campaign_63185',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T17:56:17'
+  },
+  {
+    campaignId: 'CAM09434',
+    campaignName: 'Campaign_47873',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T18:04:23'
+  },
+  {
+    campaignId: 'CAM09435',
+    campaignName: 'Keyboard',
+    campaignStatus: '',
+    targetSize: 10,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T18:05:58'
+  },
+  {
+    campaignId: 'CAM09436',
+    campaignName: 'Mariners',
+    campaignStatus: '',
+    targetSize: 1889,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T18:06:18'
+  },
+  {
+    campaignId: 'CAM09437',
+    campaignName: 'Campaign_76805',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T18:14:35'
+  },
+  {
+    campaignId: 'CAM09438',
+    campaignName: 'Practice',
+    campaignStatus: '',
+    targetSize: 0,
+    expectedCloseDate: '2026-04-11',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T18:16:16'
+  },
+  {
+    campaignId: 'CAM09439',
+    campaignName: 'Campaign_57009',
+    campaignStatus: 'string',
+    targetSize: 100,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T18:18:49'
+  },
+  {
+    campaignId: 'CAM09441',
+    campaignName: 'Computer',
+    campaignStatus: '',
+    targetSize: 78,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T18:24:45'
+  },
+  {
+    campaignId: 'CAM09442',
+    campaignName: 'Kids',
+    campaignStatus: '',
+    targetSize: 78,
+    expectedCloseDate: '',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T18:26:47'
+  },
+  {
+    campaignId: 'CAM09444',
+    campaignName: 'Dearr',
+    campaignStatus: '',
+    targetSize: 20,
+    expectedCloseDate: '2026-04-11',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T18:35:20'
+  },
+  {
+    campaignId: 'CAM09445',
+    campaignName: 'Mobile',
+    campaignStatus: '',
+    targetSize: 78,
+    expectedCloseDate: '2026-04-11',
+    targetAudience: '',
+    description: '',
+    createdAt: '2026-03-12T18:43:40'
+  },
+  {
+    campaignId: 'CAM09447',
+    campaignName: 'jgfhgf',
+    campaignStatus: 'opojbhbbv',
+    targetSize: 8,
+    expectedCloseDate: '2026-03-18',
+    targetAudience: 'abc',
+    description: 'Playwright',
+    createdAt: '2026-03-12T20:35:24'
+  },
+  {
+    campaignId: 'CAM09449',
+    campaignName: 'API Campaignmmnpb3nf',
+    campaignStatus: 'to do',
+    targetSize: 299,
+    expectedCloseDate: '2026-12-03',
+    targetAudience: 'sales team',
+    description: 'This is a Playwright Campaign',
+    createdAt: '2026-03-12T22:17:31'
+  },
+  {
+    campaignId: 'CAM09450',
+    campaignName: 'string',
+    campaignStatus: 'string',
+    targetSize: 0,
+    expectedCloseDate: 'string',
+    targetAudience: 'string',
+    description: 'string',
+    createdAt: '2026-03-12T22:21:24'
+  },
+  {
+    campaignId: 'CAM09454',
+    campaignName: 'TestCampaigndata7',
+    campaignStatus: 'Active',
+    targetSize: 10,
+    expectedCloseDate: '2026-03-31',
+    targetAudience: 'abc',
+    description: 'Test Description',
+    createdAt: '2026-03-12T22:47:17'
+  },
+  ... 808 more items
+]

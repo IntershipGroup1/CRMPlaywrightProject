@@ -1,0 +1,2 @@
+Status: 401
+Body: {"timestamp":"2026-03-20T16:14:50.176+0000","status":401,"error":"Unauthorized","message":"Unauthorized","path":"/login"}

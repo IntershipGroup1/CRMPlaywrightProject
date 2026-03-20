@@ -9,6 +9,7 @@ export class CampaignAPI extends BaseAPI {
     constructor(request: APIRequestContext, token: string) {
     super(request);
     this.token = token;
+    
   }
   async createCampaign() {
     return await this.post(

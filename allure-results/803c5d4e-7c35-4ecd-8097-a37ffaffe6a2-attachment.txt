@@ -1,0 +1,4 @@
+2026-03-20T16:18:41.290Z [INFO] Starting login before each test
+2026-03-20T16:18:45.900Z [INFO] Starting search for a campaign by ID test
+First row name: APIWinterTestTwoSeven Campaign
+2026-03-20T16:18:46.794Z [INFO] Search for a campaign by ID test completed successfully

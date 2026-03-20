@@ -1,0 +1,222 @@
+Status: 200
+Response Body: {
+  content: [
+    {
+      campaignId: 'CAM11328',
+      campaignName: 'Campaignhmjkn',
+      campaignStatus: '',
+      targetSize: 40,
+      expectedCloseDate: '2026-03-30',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T20:50:47'
+    },
+    {
+      campaignId: 'CAM11327',
+      campaignName: 'Campaignpimhs',
+      campaignStatus: '',
+      targetSize: 40,
+      expectedCloseDate: '2026-03-30',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T20:50:41'
+    },
+    {
+      campaignId: 'CAM11325',
+      campaignName: 'Campaignskkfy',
+      campaignStatus: '',
+      targetSize: 40,
+      expectedCloseDate: '2026-03-30',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T20:34:16'
+    },
+    {
+      campaignId: 'CAM11324',
+      campaignName: 'Campaignvtemi',
+      campaignStatus: '',
+      targetSize: 40,
+      expectedCloseDate: '2026-03-30',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T20:34:09'
+    },
+    {
+      campaignId: 'CAM11322',
+      campaignName: 'Campaignxqavl',
+      campaignStatus: '',
+      targetSize: 40,
+      expectedCloseDate: '2026-03-30',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T20:33:17'
+    },
+    {
+      campaignId: 'CAM11321',
+      campaignName: 'Campaigndlkuy',
+      campaignStatus: '',
+      targetSize: 40,
+      expectedCloseDate: '2026-03-30',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T20:33:11'
+    },
+    {
+      campaignId: 'CAM11311',
+      campaignName: 'startssW',
+      campaignStatus: '',
+      targetSize: 5,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T18:05:27'
+    },
+    {
+      campaignId: 'CAM11309',
+      campaignName: 'rtey',
+      campaignStatus: '',
+      targetSize: 2,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T17:57:50'
+    },
+    {
+      campaignId: 'CAM11307',
+      campaignName: 'pioneer E',
+      campaignStatus: 'Active',
+      targetSize: 200,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T17:47:47'
+    },
+    {
+      campaignId: 'CAM11306',
+      campaignName: 'pioneer I',
+      campaignStatus: '',
+      targetSize: 200,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T17:47:34'
+    },
+    {
+      campaignId: 'CAM11305',
+      campaignName: 'pioneer X',
+      campaignStatus: '',
+      targetSize: 200,
+      expectedCloseDate: '2026-04-04',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T17:47:26'
+    },
+    {
+      campaignId: 'CAM11303',
+      campaignName: 'Lenovo LoptopU',
+      campaignStatus: 'Active',
+      targetSize: 21,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T17:36:01'
+    },
+    {
+      campaignId: 'CAM11301',
+      campaignName: 'Lenovo LoptopM',
+      campaignStatus: '',
+      targetSize: 21,
+      expectedCloseDate: '2026-04-04',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T17:35:43'
+    },
+    {
+      campaignId: 'CAM11300',
+      campaignName: 'AbhiiiiAa',
+      campaignStatus: 'pass',
+      targetSize: 2,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T17:32:03'
+    },
+    {
+      campaignId: 'CAM11298',
+      campaignName: 'CampaigntestingA',
+      campaignStatus: '',
+      targetSize: 6,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T17:23:30'
+    },
+    {
+      campaignId: 'CAM11297',
+      campaignName: 'CampaigntestingM',
+      campaignStatus: 'active',
+      targetSize: 6,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T17:21:52'
+    },
+    {
+      campaignId: 'CAM11296',
+      campaignName: 'CampaigntestingD',
+      campaignStatus: '',
+      targetSize: 6,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T17:21:48'
+    },
+    {
+      campaignId: 'CAM11295',
+      campaignName: 'CampaigntestingC',
+      campaignStatus: '',
+      targetSize: 6,
+      expectedCloseDate: '2026-04-04',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T17:21:46'
+    },
+    {
+      campaignId: 'CAM11293',
+      campaignName: 'ChinnammaS',
+      campaignStatus: '',
+      targetSize: 30,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T17:17:21'
+    },
+    {
+      campaignId: 'CAM11291',
+      campaignName: 'MyTestH',
+      campaignStatus: '',
+      targetSize: 4,
+      expectedCloseDate: '2026-04-04',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T17:16:43'
+    }
+  ],
+  pageable: {
+    sort: { unsorted: true, sorted: false, empty: true },
+    offset: 0,
+    pageNumber: 0,
+    pageSize: 20,
+    unpaged: false,
+    paged: true
+  },
+  last: false,
+  totalElements: 908,
+  totalPages: 46,
+  size: 20,
+  number: 0,
+  sort: { unsorted: true, sorted: false, empty: true },
+  first: true,
+  numberOfElements: 20,
+  empty: false
+}
