@@ -1,5 +1,5 @@
 import 'dotenv/config';
-
+const isCI = !!process.env.CI;
 
 import { defineConfig, devices } from '@playwright/test';
 
@@ -38,7 +38,8 @@ export default defineConfig({
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
-    headless:false,
+   // headless:false,
+   headless: isCI,
     screenshot:"on",
    launchOptions: {
       args: [
