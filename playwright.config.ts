@@ -1,13 +1,16 @@
 import 'dotenv/config';
+
+
 import { defineConfig, devices } from '@playwright/test';
 
+const projectRoot = process.cwd();
 
 /**
- * Read environment variables from file.
- * https://github.com/motdotla/dotenv
+ 
  */
-// import dotenv from 'dotenv';
-// import path from 'path';
+// import * as dotenv from 'dotenv';
+// import * as path from 'path';
+// // Read from .env file
 // dotenv.config({ path: path.resolve(__dirname, '.env') });
 
 /**

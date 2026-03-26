@@ -3,14 +3,14 @@ import { testData } from '../../Data/testData';
 import { logger } from '../../util/logger';
 
 
-    test.only("Login with valid credentials", async ({ loginPage }) => {
+    test("Login with valid credentials", async ({ loginPage }) => {
         logger.info("Starting login test with valid credentials");
         const username = process.env.APP_USERNAME!;
         const password = process.env.APP_PASSWORD!;
         // console.log("username:", username);
        // console.log("password:", password);
         //await loginPage.navigateTo(testData.url);
-
+        await loginPage.navigateTo();
         await loginPage.login(username, password); 
         //await loginPage.login(testData.username, testData.password);
         await loginPage.verifyCampaignsText(testData.campaignPageLabel);

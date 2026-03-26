@@ -1,0 +1,23 @@
+ {
+ "loginPage": {
+        "url": "http://49.249.28.218:8098/",
+        "expectedTitle": "Login | Salesforce",
+        "validUsername": "rmgyantra",
+        "validPassword": "rmgy@9999",
+        "invalidUsername": "rmgyantraaa",
+        "invalidPassword": "rmgy@99999",
+        "isLoginSuccessful": false,
+        "errorMessage": "Invalid username or password",
+        "logoutSuccessMessage": "You have been logged out"
+    },
+    "contactpage": {
+        "url": "http://49.249.28.218:8098/contacts",
+        "contactid":"CON01210",
+        "contactname":"ontact_22285"
+
+
+
+    }
+    
+    
+}
