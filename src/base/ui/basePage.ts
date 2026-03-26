@@ -2,23 +2,51 @@ import { Page,expect,Locator } from "@playwright/test";
 import path from 'path';
 
 export class BasePage {
-    constructor(protected page:Page) {}
-
-    async navigateTo(url:string){
-        await this.page.goto(url);  
+    constructor(protected page:Page) {
+      //this.page = page;
     }
 
-    async verifyUrl(url: string) {
-  await expect(this.page).toHaveURL(url);
+    /*async navigateTo(url:string){
+        await this.page.goto(url);  
+    }*/
+   async navigateTo() {
+    await this.page.goto('/');
 }
 
-async selectDropdownByValue(locator: Locator, value: string) {
+   async verifyUrl(url: string) {
+   await expect(this.page).toHaveURL(url);
+}
+
+   async selectDropdownByValue(locator: Locator, value: string) {
     await locator.selectOption(value);
   }
 
   async verifyDropdownValue(locator: Locator, expectedValue: string) {
     await expect(locator).toHaveValue(expectedValue);
   }
+
+  async openPopup(clickLocator: any): Promise<Page> {
+    const [popup] = await Promise.all([
+    this.page.waitForEvent('popup'), clickLocator.click(),
+    ]);
+    await popup.waitForLoadState();
+    return popup;
+  }
+
+  /*async clickAndWaitForPopupToClose(popup: Page, locator: any) {
+    await Promise.all([
+      locator.click(),popup.waitForEvent('close'),  
+    ]);
+  }*/
+ async clickAndWaitForPopupToClose(popup: Page, locator: Locator) {
+  const closePromise = popup.waitForEvent('close').catch(() => {null}); // Handle the case where the popup might already be closed
+  try {
+  await locator.click();
+  }catch (error) {
+    console.log('Error clicking the locator:', error);
+  }
+  await closePromise;
+}
 
      async takeScreenshot(name: string) {
     const filePath = path.join('Screenshots', `${name}-${Date.now()}.png`);

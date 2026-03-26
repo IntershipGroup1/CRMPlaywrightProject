@@ -1,0 +1,13 @@
+{
+  "OpportunityData": {
+    "opportunityName": "",
+    "amount": "",
+    "assignedTo":"",
+    "businessType": "",
+    "description": "",
+    "expectedCloseDate": "",
+    "nextStep": "",
+    "salesStage":"",
+    "probability": ""
+  }
+}

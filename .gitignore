@@ -6,7 +6,7 @@ node_modules/
 allure-report/
 allure-results/
 logs/
-screenshots/
+Screenshots/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/

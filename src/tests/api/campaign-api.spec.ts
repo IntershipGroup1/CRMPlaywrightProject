@@ -4,7 +4,7 @@ import { test, expect } from '../../base/ui/baseTest';
 import { CampaignAPI } from '../../pages/api/campaignAPI';
 
 test.describe.serial('Campaign API', () => {
-let campaignAPI: CampaignAPI;
+let campaignAPI: CampaignAPI;    //shared variables
 let campaignId: string | number; // Store campaignId for update and delete tests
 
 test.beforeAll(async ({ request, token }) => {
