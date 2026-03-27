@@ -7,8 +7,8 @@ import { faker } from '@faker-js/faker';
 //const OpportunityfilePath = path.resolve(__dirname, '../data/opportunityData.json');
 const clean = (str: string) => str.replace(/[^a-zA-Z]/g, '');
 
-const campaignFilePath = path.resolve(process.cwd(), 'src/data/campaignData.json');
-const opportunityFilePath = path.resolve(process.cwd(), 'src/data/opportunityData.json');
+const campaignFilePath = path.resolve(process.cwd(), 'src/Data/campaignData.json');
+const opportunityFilePath = path.resolve(process.cwd(), 'src/Data/opportunityData.json');
 
 export const generateCampaignFromJson = () => {
   // Read existing JSON
