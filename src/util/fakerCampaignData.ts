@@ -2,12 +2,14 @@ import fs from 'fs';
 import path from 'path';
 import { faker } from '@faker-js/faker';
 
-const filePath = path.resolve(__dirname, '../data/campaignData.json');
-const OpportunityfilePath = path.resolve(__dirname, '../data/opportunityData.json');
+//const filePath = path.resolve(__dirname, '../data/campaignData.json');
+//const OpportunityfilePath = path.resolve(__dirname, '../data/opportunityData.json');
+const campaignFilePath = path.resolve(process.cwd(), 'data/campaignData.json');
+const opportunityFilePath = path.resolve(process.cwd(), 'data/opportunityData.json');
 
 export const generateCampaignFromJson = () => {
   // Read existing JSON
-  const rawData = fs.readFileSync(filePath, 'utf-8');
+  const rawData = fs.readFileSync(campaignFilePath, 'utf-8');
   const jsonData = JSON.parse(rawData);
 
   // Fill with Faker data
@@ -29,7 +31,7 @@ export const generateCampaignFromJson = () => {
 
 export const generateOpportunityFromJson = () => {
   // read JSON template
-  const rawData = fs.readFileSync(OpportunityfilePath, 'utf-8');
+  const rawData = fs.readFileSync(opportunityFilePath, 'utf-8');
   const jsonData = JSON.parse(rawData);
 
   // fill with Faker data
