@@ -10,7 +10,7 @@ import { logger } from '../../util/logger';
         // console.log("username:", username);
        // console.log("password:", password);
         //await loginPage.navigateTo(testData.url);
-        await loginPage.navigateTo();
+        await loginPage.navigateTo();  
         await loginPage.login(username, password); 
         //await loginPage.login(testData.username, testData.password);
         await loginPage.verifyCampaignsText(testData.campaignPageLabel);
