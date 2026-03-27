@@ -2,10 +2,13 @@ import fs from 'fs';
 import path from 'path';
 import { faker } from '@faker-js/faker';
 
+
 //const filePath = path.resolve(__dirname, '../data/campaignData.json');
 //const OpportunityfilePath = path.resolve(__dirname, '../data/opportunityData.json');
-const campaignFilePath = path.resolve(process.cwd(), 'data/campaignData.json');
-const opportunityFilePath = path.resolve(process.cwd(), 'data/opportunityData.json');
+const clean = (str: string) => str.replace(/[^a-zA-Z]/g, '');
+
+const campaignFilePath = path.resolve(process.cwd(), 'src/data/campaignData.json');
+const opportunityFilePath = path.resolve(process.cwd(), 'src/data/opportunityData.json');
 
 export const generateCampaignFromJson = () => {
   // Read existing JSON
@@ -13,7 +16,9 @@ export const generateCampaignFromJson = () => {
   const jsonData = JSON.parse(rawData);
 
   // Fill with Faker data
-  jsonData.campaignData.campaignName = faker.company.buzzNoun().slice(0, 20);
+  //jsonData.campaignData.campaignName = faker.company.buzzNoun().slice(0, 20);
+  
+  jsonData.campaignData.campaignName =`TestCamp ${clean(faker.person.lastName())}`.slice(0, 20);
   jsonData.campaignData.campaignStatus = faker.helpers.arrayElement([
     'Active',
     'Paused',
@@ -33,10 +38,11 @@ export const generateOpportunityFromJson = () => {
   // read JSON template
   const rawData = fs.readFileSync(opportunityFilePath, 'utf-8');
   const jsonData = JSON.parse(rawData);
-
+  //const clean = (str: string) => str.replace(/[^a-zA-Z]/g, '');
   // fill with Faker data
   jsonData.OpportunityData.opportunityName =
-    faker.company.buzzNoun().slice(0, 20);
+    //faker.company.buzzNoun().slice(0, 20);
+    `TestOpp ${clean(faker.person.lastName())}`.slice(0, 20);
 
   jsonData.OpportunityData.amount =
     faker.number.int({ min: 1000, max: 100000 }).toString();
@@ -70,3 +76,4 @@ export const generateOpportunityFromJson = () => {
 
   return jsonData;
 };
+

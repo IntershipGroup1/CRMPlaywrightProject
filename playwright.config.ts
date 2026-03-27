@@ -1,13 +1,16 @@
 import 'dotenv/config';
+const isCI = !!process.env.CI;
+
 import { defineConfig, devices } from '@playwright/test';
 
+const projectRoot = process.cwd();
 
 /**
- * Read environment variables from file.
- * https://github.com/motdotla/dotenv
+ 
  */
-// import dotenv from 'dotenv';
-// import path from 'path';
+// import * as dotenv from 'dotenv';
+// import * as path from 'path';
+// // Read from .env file
 // dotenv.config({ path: path.resolve(__dirname, '.env') });
 
 /**
@@ -22,7 +25,7 @@ export default defineConfig({
   /* Retry on CI only */
   retries: process.env.CI ? 2 : 0,
   /* Opt out of parallel tests on CI. */
-  workers: process.env.CI ? 1 : 4,
+  workers: process.env.CI ? 1 : undefined,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
   reporter:[
    ['html'],['allure-playwright', { outputFolder: 'allure-results' }],
@@ -35,7 +38,8 @@ export default defineConfig({
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
-    headless:false,
+   // headless:false,
+   headless: isCI,
     screenshot:"on",
    launchOptions: {
       args: [

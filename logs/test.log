@@ -1163,3 +1163,495 @@
 2026-03-26T18:32:58.855Z [INFO] Navigation to Opportunities page test completed successfully
 2026-03-26T18:32:58.856Z [INFO] Starting search for a opportunity by ID test
 2026-03-26T18:32:59.948Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:35:32.748Z [INFO] Starting login before each test
+2026-03-27T16:35:32.857Z [INFO] Starting login before each test
+2026-03-27T16:35:32.916Z [INFO] Starting login before each test
+2026-03-27T16:35:32.911Z [INFO] Starting login before each test
+2026-03-27T16:35:37.571Z [INFO] Starting Create Campaign test
+2026-03-27T16:35:37.585Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T16:35:37.697Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:35:38.115Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:35:38.219Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T16:35:38.311Z [INFO] Starting search for a campaign by ID test
+2026-03-27T16:35:38.720Z [INFO] Starting login test with invalid credentials
+2026-03-27T16:35:40.501Z [INFO] Starting login test with valid credentials
+2026-03-27T16:35:40.624Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:35:40.966Z [INFO] Starting login before each test
+2026-03-27T16:35:43.125Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T16:35:43.653Z [INFO] Starting login before each test
+2026-03-27T16:35:45.024Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:35:45.227Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T16:35:45.486Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:35:45.554Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:35:46.015Z [INFO] Starting login before each test
+2026-03-27T16:35:47.885Z [INFO] Starting login before each test
+2026-03-27T16:35:48.145Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:35:48.647Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:35:48.647Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:35:48.735Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:35:50.422Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:35:50.886Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:35:50.888Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T16:35:51.797Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:35:52.140Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:35:52.556Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:38:28.293Z [INFO] Starting login before each test
+2026-03-27T16:38:28.369Z [INFO] Starting login before each test
+2026-03-27T16:38:28.370Z [INFO] Starting login before each test
+2026-03-27T16:38:28.457Z [INFO] Starting login before each test
+2026-03-27T16:38:32.602Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:38:32.962Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T16:38:33.009Z [INFO] Starting Create Campaign test
+2026-03-27T16:38:33.029Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:38:33.378Z [INFO] Starting search for a campaign by ID test
+2026-03-27T16:38:33.456Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T16:38:33.788Z [INFO] Starting login test with valid credentials
+2026-03-27T16:38:35.612Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:38:35.965Z [INFO] Starting login test with invalid credentials
+2026-03-27T16:38:38.889Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T16:38:39.291Z [INFO] Starting login before each test
+2026-03-27T16:38:40.749Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T16:38:41.304Z [INFO] Starting login before each test
+2026-03-27T16:38:41.547Z [INFO] Starting login before each test
+2026-03-27T16:38:43.966Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:38:44.451Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:38:44.534Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:38:45.617Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:38:45.929Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:38:46.071Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:38:46.071Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T16:38:46.344Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:38:46.344Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:38:46.408Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:38:46.718Z [INFO] Starting login before each test
+2026-03-27T16:38:47.012Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:38:51.161Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:38:51.580Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:44:31.790Z [INFO] Starting login before each test
+2026-03-27T16:44:31.808Z [INFO] Starting login before each test
+2026-03-27T16:44:31.996Z [INFO] Starting login before each test
+2026-03-27T16:44:32.058Z [INFO] Starting login before each test
+2026-03-27T16:44:36.067Z [INFO] Starting Create Campaign test
+2026-03-27T16:44:36.186Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T16:44:36.428Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:44:36.646Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T16:44:36.650Z [INFO] Starting search for a campaign by ID test
+2026-03-27T16:44:36.780Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:44:37.336Z [INFO] Starting login test with valid credentials
+2026-03-27T16:44:37.647Z [INFO] Create Campaign test completed successfully
+2026-03-27T16:44:37.899Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:44:38.028Z [INFO] Starting login test with invalid credentials
+2026-03-27T16:44:38.285Z [INFO] Starting login before each test
+2026-03-27T16:44:42.375Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T16:44:42.749Z [INFO] Starting login before each test
+2026-03-27T16:44:42.980Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:44:43.003Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T16:44:43.530Z [INFO] Starting login before each test
+2026-03-27T16:44:43.543Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:44:43.610Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:44:46.698Z [INFO] Starting login before each test
+2026-03-27T16:44:47.224Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:44:47.648Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:44:47.648Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:44:47.717Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:44:47.848Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:44:48.274Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:44:48.275Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T16:44:49.204Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:44:50.889Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:44:51.281Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:46:23.314Z [INFO] Starting login before each test
+2026-03-27T16:46:23.385Z [INFO] Starting login before each test
+2026-03-27T16:46:23.412Z [INFO] Starting login before each test
+2026-03-27T16:46:23.526Z [INFO] Starting login before each test
+2026-03-27T16:46:27.969Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T16:46:28.206Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:46:28.211Z [INFO] Starting Create Campaign test
+2026-03-27T16:46:28.393Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T16:46:28.621Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:46:28.823Z [INFO] Starting search for a campaign by ID test
+2026-03-27T16:46:29.014Z [INFO] Starting login test with valid credentials
+2026-03-27T16:46:29.838Z [INFO] Create Campaign test completed successfully
+2026-03-27T16:46:30.236Z [INFO] Starting login test with invalid credentials
+2026-03-27T16:46:31.087Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:46:31.407Z [INFO] Starting login before each test
+2026-03-27T16:46:33.790Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T16:46:34.146Z [INFO] Starting login before each test
+2026-03-27T16:46:35.262Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T16:46:35.715Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:46:35.759Z [INFO] Starting login before each test
+2026-03-27T16:46:36.145Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:46:36.205Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:46:38.323Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:46:38.773Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:46:38.774Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:46:38.862Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:46:39.197Z [INFO] Starting login before each test
+2026-03-27T16:46:40.459Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:46:40.920Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:46:40.921Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T16:46:41.822Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:46:43.629Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:46:44.039Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:52:20.033Z [INFO] Starting login test with valid credentials
+2026-03-27T16:52:20.469Z [INFO] Starting login before each test
+2026-03-27T16:52:20.744Z [INFO] Starting login before each test
+2026-03-27T16:52:20.835Z [INFO] Starting login before each test
+2026-03-27T16:52:20.874Z [INFO] Starting login before each test
+2026-03-27T16:52:24.793Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T16:52:25.333Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T16:52:25.415Z [INFO] Starting search for a campaign by ID test
+2026-03-27T16:52:25.419Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T16:52:25.457Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:52:25.710Z [INFO] Starting Create Campaign test
+2026-03-27T16:52:25.940Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:52:26.108Z [INFO] Starting login test with invalid credentials
+2026-03-27T16:52:26.268Z [INFO] Starting login before each test
+2026-03-27T16:52:26.570Z [INFO] Starting login before each test
+2026-03-27T16:52:26.827Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:52:27.208Z [INFO] Create Campaign test completed successfully
+2026-03-27T16:52:27.275Z [INFO] Starting login before each test
+2026-03-27T16:52:27.674Z [INFO] Starting login before each test
+2026-03-27T16:52:30.675Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T16:52:30.914Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:52:31.016Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:52:31.394Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:52:31.465Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:52:31.465Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:52:31.478Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:52:31.545Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:52:31.841Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:52:32.194Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:52:32.323Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:52:32.323Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T16:52:32.651Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:52:34.771Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:53:30.182Z [INFO] Starting login before each test
+2026-03-27T16:53:30.492Z [INFO] Starting login before each test
+2026-03-27T16:53:30.500Z [INFO] Starting login before each test
+2026-03-27T16:53:30.503Z [INFO] Starting login before each test
+2026-03-27T16:53:30.516Z [INFO] Starting login test with valid credentials
+2026-03-27T16:53:34.688Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T16:53:34.806Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:53:35.022Z [INFO] Starting Create Campaign test
+2026-03-27T16:53:35.146Z [INFO] Starting search for a campaign by ID test
+2026-03-27T16:53:35.172Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T16:53:35.195Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:53:35.884Z [INFO] Starting login test with invalid credentials
+2026-03-27T16:53:35.919Z [INFO] Starting login before each test
+2026-03-27T16:53:36.021Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T16:53:36.540Z [INFO] Create Campaign test completed successfully
+2026-03-27T16:53:36.619Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:53:36.912Z [INFO] Starting login before each test
+2026-03-27T16:53:37.351Z [INFO] Starting login before each test
+2026-03-27T16:53:37.383Z [INFO] Starting login before each test
+2026-03-27T16:53:40.301Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T16:53:40.517Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:53:41.011Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:53:41.087Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:53:41.737Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:53:41.780Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:53:41.798Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:53:42.282Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:53:42.283Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:53:42.345Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:53:42.344Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:53:42.345Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T16:53:42.413Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:53:43.345Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:54:07.174Z [INFO] Starting login test with valid credentials
+2026-03-27T16:54:07.525Z [INFO] Starting login before each test
+2026-03-27T16:54:07.585Z [INFO] Starting login before each test
+2026-03-27T16:54:07.800Z [INFO] Starting login before each test
+2026-03-27T16:54:08.000Z [INFO] Starting login before each test
+2026-03-27T16:54:12.139Z [INFO] Starting Create Campaign test
+2026-03-27T16:54:12.400Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T16:54:12.870Z [INFO] Starting search for a campaign by ID test
+2026-03-27T16:54:12.908Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T16:54:13.067Z [INFO] Starting login test with invalid credentials
+2026-03-27T16:54:13.341Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T16:54:13.382Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:54:13.527Z [INFO] Create Campaign test completed successfully
+2026-03-27T16:54:14.088Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:54:14.332Z [INFO] Starting login before each test
+2026-03-27T16:54:14.428Z [INFO] Starting login before each test
+2026-03-27T16:54:14.701Z [INFO] Starting login before each test
+2026-03-27T16:54:15.314Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:54:15.695Z [INFO] Starting login before each test
+2026-03-27T16:54:17.903Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T16:54:18.708Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:54:18.789Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:54:19.166Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:54:19.280Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:54:19.308Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:54:19.310Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:54:19.427Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:54:19.445Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:54:19.955Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:54:19.957Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T16:54:20.071Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:54:20.534Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:54:20.922Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:54:36.033Z [INFO] Starting login test with valid credentials
+2026-03-27T16:54:37.182Z [INFO] Starting login before each test
+2026-03-27T16:54:37.411Z [INFO] Starting login before each test
+2026-03-27T16:54:37.587Z [INFO] Starting login before each test
+2026-03-27T16:54:37.622Z [INFO] Starting login before each test
+2026-03-27T16:54:40.936Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T16:54:41.482Z [INFO] Starting login test with invalid credentials
+2026-03-27T16:54:42.005Z [INFO] Starting Create Campaign test
+2026-03-27T16:54:42.181Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:54:42.307Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T16:54:42.478Z [INFO] Starting search for a campaign by ID test
+2026-03-27T16:54:42.548Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:54:42.834Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T16:54:43.003Z [INFO] Starting login before each test
+2026-03-27T16:54:43.191Z [INFO] Create Campaign test completed successfully
+2026-03-27T16:54:43.329Z [INFO] Starting login before each test
+2026-03-27T16:54:44.035Z [INFO] Starting login before each test
+2026-03-27T16:54:44.717Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:54:45.231Z [INFO] Starting login before each test
+2026-03-27T16:54:45.914Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T16:54:47.022Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:54:47.477Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:54:47.529Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:54:47.551Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:54:48.163Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:54:48.164Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:54:48.334Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:54:48.670Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:54:49.163Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:54:49.164Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T16:54:49.436Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:54:49.975Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:54:50.150Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:55:46.489Z [INFO] Starting login test with valid credentials
+2026-03-27T16:55:47.029Z [INFO] Starting login before each test
+2026-03-27T16:55:47.453Z [INFO] Starting login before each test
+2026-03-27T16:55:47.458Z [INFO] Starting login before each test
+2026-03-27T16:55:47.623Z [INFO] Starting login before each test
+2026-03-27T16:55:51.385Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T16:55:51.414Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T16:55:51.843Z [INFO] Starting login test with invalid credentials
+2026-03-27T16:55:51.920Z [INFO] Starting Create Campaign test
+2026-03-27T16:55:51.980Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T16:55:52.127Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:55:52.434Z [INFO] Starting login before each test
+2026-03-27T16:55:52.575Z [INFO] Starting search for a campaign by ID test
+2026-03-27T16:55:52.579Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:55:53.032Z [INFO] Starting login before each test
+2026-03-27T16:55:53.226Z [INFO] Create Campaign test completed successfully
+2026-03-27T16:55:53.627Z [INFO] Starting login before each test
+2026-03-27T16:55:54.935Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:55:55.653Z [INFO] Starting login before each test
+2026-03-27T16:55:56.874Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T16:55:57.413Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:55:57.877Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:55:57.955Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:55:58.039Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:55:58.135Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:55:58.394Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:55:58.395Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:55:58.540Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:55:58.763Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:55:58.764Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T16:55:59.746Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:56:00.265Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:56:00.718Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:58:44.855Z [INFO] Starting login test with valid credentials
+2026-03-27T16:58:45.714Z [INFO] Starting login before each test
+2026-03-27T16:58:45.881Z [INFO] Starting login before each test
+2026-03-27T16:58:46.073Z [INFO] Starting login before each test
+2026-03-27T16:58:46.121Z [INFO] Starting login before each test
+2026-03-27T16:58:49.938Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T16:58:50.216Z [INFO] Starting Create Campaign test
+2026-03-27T16:58:50.422Z [INFO] Starting login test with invalid credentials
+2026-03-27T16:58:50.656Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:58:50.717Z [INFO] Starting search for a campaign by ID test
+2026-03-27T16:58:50.746Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T16:58:51.045Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:58:51.330Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T16:58:51.469Z [INFO] Create Campaign test completed successfully
+2026-03-27T16:58:51.705Z [INFO] Starting login before each test
+2026-03-27T16:58:52.033Z [INFO] Starting login before each test
+2026-03-27T16:58:52.212Z [INFO] Starting login before each test
+2026-03-27T16:58:53.076Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T16:58:53.480Z [INFO] Starting login before each test
+2026-03-27T16:58:54.919Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T16:58:56.029Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:58:56.295Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:58:56.496Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:58:56.496Z [INFO] Starting select search type from dropdown test
+2026-03-27T16:58:56.534Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:58:56.598Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T16:58:56.793Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:58:56.867Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:58:57.059Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:58:57.060Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T16:58:58.005Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T16:58:58.459Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T16:58:59.614Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T17:20:24.222Z [INFO] Starting login before each test
+2026-03-27T17:20:24.770Z [INFO] Starting login before each test
+2026-03-27T17:20:24.780Z [INFO] Starting login before each test
+2026-03-27T17:20:25.111Z [INFO] Starting login test with valid credentials
+2026-03-27T17:20:25.319Z [INFO] Starting login before each test
+2026-03-27T17:20:29.217Z [INFO] Starting Create Campaign test
+2026-03-27T17:20:29.402Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T17:20:29.899Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T17:20:30.248Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T17:20:30.677Z [INFO] Starting search for a campaign by ID test
+2026-03-27T17:20:30.692Z [INFO] Starting login test with invalid credentials
+2026-03-27T17:20:30.863Z [INFO] Starting select search type from dropdown test
+2026-03-27T17:20:31.781Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T17:20:32.269Z [INFO] Starting login before each test
+2026-03-27T17:20:32.293Z [INFO] Starting login before each test
+2026-03-27T17:20:33.069Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T17:20:33.483Z [INFO] Starting login before each test
+2026-03-27T17:20:34.815Z [INFO] Starting login before each test
+2026-03-27T17:20:35.319Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T17:20:36.654Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:20:36.750Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:20:37.124Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:20:37.208Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:20:37.240Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:20:37.241Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T17:20:38.065Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:20:38.545Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:20:39.455Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:20:39.720Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T17:20:39.910Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:20:39.911Z [INFO] Starting select search type from dropdown test
+2026-03-27T17:20:39.999Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T17:26:38.281Z [INFO] Starting login test with valid credentials
+2026-03-27T17:26:38.532Z [INFO] Starting login before each test
+2026-03-27T17:26:38.902Z [INFO] Starting login before each test
+2026-03-27T17:26:39.138Z [INFO] Starting login before each test
+2026-03-27T17:26:39.275Z [INFO] Starting login before each test
+2026-03-27T17:26:42.900Z [INFO] Starting search for a campaign by ID test
+2026-03-27T17:26:43.038Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T17:26:43.457Z [INFO] Starting login test with invalid credentials
+2026-03-27T17:26:43.554Z [INFO] Starting select search type from dropdown test
+2026-03-27T17:26:44.200Z [INFO] Starting Create Campaign test
+2026-03-27T17:26:45.076Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T17:26:45.638Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T17:26:45.726Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T17:26:46.412Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T17:26:46.923Z [INFO] Create Campaign test completed successfully
+2026-03-27T17:26:48.010Z [INFO] Starting login before each test
+2026-03-27T17:26:48.215Z [INFO] Starting login before each test
+2026-03-27T17:26:48.345Z [INFO] Starting login before each test
+2026-03-27T17:26:48.433Z [INFO] Starting login before each test
+2026-03-27T17:26:49.709Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T17:26:52.623Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:26:52.635Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:26:52.955Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:26:53.264Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:26:53.265Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T17:26:53.269Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:26:53.270Z [INFO] Starting select search type from dropdown test
+2026-03-27T17:26:53.347Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:26:53.427Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T17:26:53.499Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:26:54.261Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T17:26:54.415Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:26:54.592Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:41:59.228Z [INFO] Starting login test with valid credentials
+2026-03-27T17:42:00.040Z [INFO] Starting login before each test
+2026-03-27T17:42:00.349Z [INFO] Starting login before each test
+2026-03-27T17:42:00.362Z [INFO] Starting login before each test
+2026-03-27T17:42:00.530Z [INFO] Starting login before each test
+2026-03-27T17:42:03.790Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T17:42:04.149Z [INFO] Starting login test with invalid credentials
+2026-03-27T17:42:04.526Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T17:42:04.878Z [INFO] Starting search for a campaign by ID test
+2026-03-27T17:42:05.009Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T17:42:05.106Z [INFO] Starting select search type from dropdown test
+2026-03-27T17:42:05.312Z [INFO] Starting Create Campaign test
+2026-03-27T17:42:05.467Z [INFO] Starting login before each test
+2026-03-27T17:42:05.587Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T17:42:06.061Z [INFO] Starting login before each test
+2026-03-27T17:42:06.563Z [INFO] Create Campaign test completed successfully
+2026-03-27T17:42:06.839Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T17:42:06.994Z [INFO] Starting login before each test
+2026-03-27T17:42:07.397Z [INFO] Starting login before each test
+2026-03-27T17:42:08.520Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T17:42:09.808Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:42:10.194Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:42:10.284Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:42:10.352Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:42:10.697Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:42:10.697Z [INFO] Starting select search type from dropdown test
+2026-03-27T17:42:10.841Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T17:42:11.537Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:42:11.980Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:42:11.980Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T17:42:12.176Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:42:12.894Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T17:42:13.154Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:57:22.195Z [INFO] Starting login before each test
+2026-03-27T17:57:22.565Z [INFO] Starting login before each test
+2026-03-27T17:57:22.668Z [INFO] Starting login test with valid credentials
+2026-03-27T17:57:23.172Z [INFO] Starting login before each test
+2026-03-27T17:57:23.302Z [INFO] Starting login before each test
+2026-03-27T17:57:28.267Z [INFO] Starting search for a campaign by ID test
+2026-03-27T17:57:28.656Z [INFO] Starting Create Campaign test
+2026-03-27T17:57:28.685Z [INFO] Starting select search type from dropdown test
+2026-03-27T17:57:29.320Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T17:57:29.330Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T17:57:29.346Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T17:57:30.073Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T17:57:30.453Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T17:57:31.163Z [INFO] Starting login test with invalid credentials
+2026-03-27T17:57:32.452Z [INFO] Create Campaign test completed successfully
+2026-03-27T17:57:32.711Z [INFO] Starting login before each test
+2026-03-27T17:57:32.716Z [INFO] Starting login before each test
+2026-03-27T17:57:33.918Z [INFO] Starting login before each test
+2026-03-27T17:57:34.539Z [INFO] Starting login before each test
+2026-03-27T17:57:36.086Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T17:57:37.435Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:57:38.026Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:57:38.026Z [INFO] Starting select search type from dropdown test
+2026-03-27T17:57:38.127Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:57:38.164Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T17:57:38.659Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:57:38.865Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:57:38.866Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T17:57:39.398Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:57:39.457Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T17:57:39.893Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T17:57:40.025Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T17:57:40.148Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T18:02:45.437Z [INFO] Starting login test with valid credentials
+2026-03-27T18:02:46.664Z [INFO] Starting login before each test
+2026-03-27T18:02:48.858Z [INFO] Starting login before each test
+2026-03-27T18:02:48.856Z [INFO] Starting login before each test
+2026-03-27T18:02:48.859Z [INFO] Starting login before each test
+2026-03-27T18:02:53.386Z [INFO] Starting select search type from dropdown test
+2026-03-27T18:02:53.713Z [INFO] Login test with valid credentials completed successfully
+2026-03-27T18:02:53.995Z [INFO] Starting Create Campaign test
+2026-03-27T18:02:54.056Z [INFO] Starting navigation to Campaigns page test
+2026-03-27T18:02:54.097Z [INFO] Starting search for a campaign by ID test
+2026-03-27T18:02:54.943Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T18:02:55.540Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-27T18:02:55.913Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-27T18:02:56.007Z [INFO] Starting login test with invalid credentials
+2026-03-27T18:02:56.169Z [INFO] Create Campaign test completed successfully
+2026-03-27T18:02:57.008Z [INFO] Starting login before each test
+2026-03-27T18:02:57.389Z [INFO] Starting login before each test
+2026-03-27T18:02:57.653Z [INFO] Starting login before each test
+2026-03-27T18:02:57.921Z [INFO] Starting login before each test
+2026-03-27T18:03:01.791Z [INFO] Login test with invalid credentials completed successfully
+2026-03-27T18:03:02.058Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T18:03:02.244Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T18:03:02.785Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T18:03:02.824Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T18:03:03.050Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T18:03:03.117Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T18:03:03.118Z [INFO] Starting select search type from dropdown test
+2026-03-27T18:03:03.284Z [INFO] Select search type from dropdown test completed successfully
+2026-03-27T18:03:03.325Z [INFO] Starting navigation to Opportunities page test
+2026-03-27T18:03:03.555Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T18:03:03.557Z [INFO] Starting search for a opportunity by ID test
+2026-03-27T18:03:04.131Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-27T18:03:04.226Z [INFO] Search for a campaign by ID test completed successfully
