@@ -1,8 +1,11 @@
 import { loadJSON } from '../util/dataLoader.ts';
 import { faker } from "@faker-js/faker";
+import * as path from "path";
 
 export function getRandomContact() {
-  const base = loadJSON("src/Data/contactData.json").createContact;
+  //const base = loadJSON("src/Data/contactData.json").createContact;
+ const base = loadJSON(path.join(process.cwd(), 'src', 'Data', 'contactdata.json')).createContact;
+
 
   return {
     ...base,
