@@ -1688,6 +1688,7 @@
 2026-03-27T19:32:06.754Z [INFO] Starting search for a opportunity by ID test
 2026-03-27T19:32:07.397Z [INFO] Navigation to Opportunities page test completed successfully
 2026-03-27T19:32:08.555Z [INFO] Search for a campaign by ID test completed successfully
+<<<<<<< HEAD
 2026-03-31T18:26:07.178Z [INFO] Starting login before each test
 2026-03-31T18:26:07.302Z [INFO] Starting login before each test
 2026-03-31T18:26:07.319Z [INFO] Starting login before each test
@@ -1733,3 +1734,5 @@
 2026-03-31T18:27:31.518Z [INFO] Starting navigation to Opportunities page test
 2026-03-31T18:27:31.696Z [INFO] Search for a campaign by ID test completed successfully
 2026-03-31T18:27:32.074Z [INFO] Navigation to Opportunities page test completed successfully
+=======
+>>>>>>> 654962f94c11f9ca74f055efbfbdf103e1afb813
