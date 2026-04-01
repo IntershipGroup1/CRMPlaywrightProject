@@ -1688,6 +1688,56 @@
 2026-03-27T19:32:06.754Z [INFO] Starting search for a opportunity by ID test
 2026-03-27T19:32:07.397Z [INFO] Navigation to Opportunities page test completed successfully
 2026-03-27T19:32:08.555Z [INFO] Search for a campaign by ID test completed successfully
+<<<<<<< HEAD
+<<<<<<< HEAD
+2026-03-31T18:26:07.178Z [INFO] Starting login before each test
+2026-03-31T18:26:07.302Z [INFO] Starting login before each test
+2026-03-31T18:26:07.319Z [INFO] Starting login before each test
+2026-03-31T18:26:07.335Z [INFO] Starting login before each test
+2026-03-31T18:26:11.741Z [INFO] Starting select search type from dropdown test
+2026-03-31T18:26:12.047Z [INFO] Starting search for a campaign by ID test
+2026-03-31T18:26:12.124Z [INFO] Starting Create Campaign test
+2026-03-31T18:26:12.262Z [INFO] Select search type from dropdown test completed successfully
+2026-03-31T18:26:12.666Z [INFO] Starting navigation to Campaigns page test
+2026-03-31T18:26:13.407Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-31T18:26:13.645Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-31T18:26:13.806Z [INFO] Create Campaign test completed successfully
+2026-03-31T18:27:15.436Z [INFO] Starting login test with valid credentials
+2026-03-31T18:27:15.854Z [INFO] Starting login before each test
+2026-03-31T18:27:15.920Z [INFO] Starting login before each test
+2026-03-31T18:27:16.078Z [INFO] Starting login before each test
+2026-03-31T18:27:16.591Z [INFO] Starting login before each test
+2026-03-31T18:27:21.294Z [INFO] Starting Create Campaign test
+2026-03-31T18:27:21.555Z [INFO] Starting select search type from dropdown test
+2026-03-31T18:27:21.598Z [INFO] Starting navigation to Campaigns page test
+2026-03-31T18:27:21.662Z [INFO] Login test with valid credentials completed successfully
+2026-03-31T18:27:22.105Z [INFO] Select search type from dropdown test completed successfully
+2026-03-31T18:27:22.711Z [INFO] Starting search for a campaign by ID test
+2026-03-31T18:27:23.079Z [INFO] Starting login test with invalid credentials
+2026-03-31T18:27:23.205Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-31T18:27:23.673Z [INFO] Starting login before each test
+2026-03-31T18:27:23.840Z [INFO] Create Campaign test completed successfully
+2026-03-31T18:27:24.764Z [INFO] Starting login before each test
+2026-03-31T18:27:25.376Z [INFO] Starting login before each test
+2026-03-31T18:27:25.479Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-31T18:27:26.217Z [INFO] Starting login before each test
+2026-03-31T18:27:27.874Z [INFO] Login test with invalid credentials completed successfully
+2026-03-31T18:27:28.818Z [INFO] Starting navigation to Opportunities page test
+2026-03-31T18:27:29.406Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-31T18:27:29.507Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-31T18:27:29.522Z [INFO] Starting navigation to Opportunities page test
+2026-03-31T18:27:30.212Z [INFO] Starting navigation to Opportunities page test
+2026-03-31T18:27:30.223Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-31T18:27:30.224Z [INFO] Starting select search type from dropdown test
+2026-03-31T18:27:30.512Z [INFO] Select search type from dropdown test completed successfully
+2026-03-31T18:27:31.054Z [INFO] Navigation to Opportunities page test completed successfully
+2026-03-31T18:27:31.055Z [INFO] Starting search for a opportunity by ID test
+2026-03-31T18:27:31.518Z [INFO] Starting navigation to Opportunities page test
+2026-03-31T18:27:31.696Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-31T18:27:32.074Z [INFO] Navigation to Opportunities page test completed successfully
+=======
+>>>>>>> 654962f94c11f9ca74f055efbfbdf103e1afb813
+=======
 2026-03-31T18:31:15.182Z [INFO] Starting login before each test
 2026-03-31T18:31:15.251Z [INFO] Starting login before each test
 2026-03-31T18:31:15.275Z [INFO] Starting login before each test
@@ -1696,3 +1746,4 @@
 2026-03-31T18:31:27.897Z [INFO] Starting navigation to Campaigns page test
 2026-03-31T18:31:30.785Z [INFO] Starting Create Campaign test
 2026-03-31T18:31:31.052Z [INFO] Starting search for a campaign by ID test
+>>>>>>> 282a50c641af5ae1e6b67d3049bbcc6bc2dac1ac

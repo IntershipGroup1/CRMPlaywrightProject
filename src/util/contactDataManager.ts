@@ -4,8 +4,12 @@ import * as path from "path";
 
 export function getRandomContact() {
   //const base = loadJSON("src/Data/contactData.json").createContact;
+<<<<<<< HEAD
+  const base = loadJSON(path.join(process.cwd(), 'src', 'Data', 'contactdata.json')).createContact;
+=======
  const base = loadJSON(path.join(process.cwd(), 'src', 'Data', 'contactdata.json')).createContact;
 
+>>>>>>> 654962f94c11f9ca74f055efbfbdf103e1afb813
 
   return {
     ...base,
