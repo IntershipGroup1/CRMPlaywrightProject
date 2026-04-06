@@ -3,29 +3,35 @@ import { LoginPage } from '../../pages/ui/loginPage';
 import { CampaignPage } from '../../pages/ui/campaignPage';
 import { LoginAPI } from '../../pages/api/loginAPI';
 import { OpportunityPage } from '../../pages/ui/opportunityPage';
+import { UserProfilePage } from '../../pages/ui/UserProfilePage';
 
 type Fixtures = {
   loginPage: LoginPage;
   campaignPage: CampaignPage;
-  opportunityPage:OpportunityPage;
+  opportunityPage: OpportunityPage;
+  userProfilePage: UserProfilePage;
   token: string;
 };
 
 export const test = base.extend<Fixtures>({
-  
+
   loginPage: async ({ page }, use) => {
     await use(new LoginPage(page));
   },
- 
-    campaignPage: async ({ page }, use) => {  
+
+  campaignPage: async ({ page }, use) => {
     await use(new CampaignPage(page));
-    },
+  },
 
-    opportunityPage: async ({ page }, use) => {
+  opportunityPage: async ({ page }, use) => {
     await use(new OpportunityPage(page));
-    },
+  },
 
-     token: async ({ request }, use) => {             //request :API client
+  userProfilePage: async ({ page }, use) => {
+    await use(new UserProfilePage(page));
+  },
+
+  token: async ({ request }, use) => {             //request :API client
     const loginAPI = new LoginAPI(request);            //Take request-> pass into LoginAPI
     const token = await loginAPI.loginValid(); //dynamic token
     await use(token);
